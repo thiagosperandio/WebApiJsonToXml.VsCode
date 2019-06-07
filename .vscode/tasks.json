@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/WebServiceJsonToXml.csproj"
+                "${workspaceFolder}/WebApiJsonToXml.VsCode.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -17,7 +17,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/WebServiceJsonToXml.csproj"
+                "${workspaceFolder}/WebApiJsonToXml.VsCode.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -28,7 +28,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/WebServiceJsonToXml.csproj"
+                "${workspaceFolder}/WebApiJsonToXml.VsCode.csproj"
             ],
             "problemMatcher": "$tsc"
         }

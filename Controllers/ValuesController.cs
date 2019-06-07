@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebServiceJsonToXmlApi.Controllers
+namespace WebApiJsonToXml.VsCode.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
